@@ -1,6 +1,12 @@
 $myFont: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-$myFontColor: blue; 
+$myFontColor: blue;
 h1 {
   font-family: $myFont;
   color: $myFontColor;
+  color: blue;
+}
+
+body {
+  background-image: url("./react-logo.png");
+  background-repeat: no-repeat;
 }
